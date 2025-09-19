@@ -6,4 +6,6 @@
 
 Live link: https://safari-bloom-app.lovable.app
 
+### Please find the link: https://github.com/Pat254codez/safari-bloom-app.git
+
 
